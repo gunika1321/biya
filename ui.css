@@ -26,9 +26,10 @@ header {
 }
 
 header .logo {
-    margin-left: 150px;
     font-size: 24px;
     font-weight: bold;
+    margin: auto;
+    margin-top: 10px
 }
 
 header nav ul {

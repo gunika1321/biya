@@ -282,6 +282,7 @@ p {
     flex-direction: row;
     height: 80px;
     width: 540px;
+    align-items: center;
 }
 
 .logo-text {
